@@ -2,7 +2,7 @@
 Method to infer Copy Number intra-tumor Heterogeneity from a single chromosomal copy number measurement.
 
 # LICENSE
-Please read the license before usage.
+Please read the end user license agreement before usage.
 
 # DESCRIPTION
 MATLAB function to calculate copy number intra-tumor heterogeneity (CNH) from a single copy number measurement.
